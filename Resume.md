@@ -56,21 +56,37 @@
 - **慧治楼宇 大厦物业管理系统**
 
   实现管理员相关
+  
+- **INKBOOK墨书 在线文档**
+
+  
+
+- **学术成果分享平台**
+
+  
+
+- **青年租房管理系统**
+
+  
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 开源经历
 
-- **XXXX 项目**
+- **OpenEuler 内核热补丁**
 
   *使用到的技术*
 
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+  实现了OpenEuler在启动时
+  
+- **3TS-Coo **
+
+  2023腾讯犀牛鸟校园项目，3TS-Coo是腾讯事务处理技术验证系统
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
-
+- 熟悉的Java开发的相关技术栈
+- 熟悉HTTP、TCP、UDP、Websocket等常见网络通信协议
+- 有基于Docker/K8S的分布式集群设计、部署、运维、开发经验，了解Dockerfile与shell脚本开发
+- 熟悉Spring Cloud开发，了解的相关技术栈包括Nginx、Redis、MybatisPlus、Nacos、Feign、ELK
+- 重视技术文档书写，常用Markdown
+- 重视数据结构与算法在开发中的应用，关注实际业务的时空复杂度
+- 了解toB工业互联网、物联网、数字孪生、大数据等业务
+- 了解计算机图形学、设计模式、多线程、嵌入式等技术
